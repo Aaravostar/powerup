@@ -1,0 +1,15 @@
+{
+    "beanBrands": [
+        {
+         "id": 1,
+         "name":"Starbucks",
+         "desc":"Very good"},
+        {
+         "id": 2,
+         "name":"Aroma",
+         "desc":"Very good"},
+        {
+         "id": 3,
+         "name":"Nestle",
+         "desc":"OK"}]
+}
